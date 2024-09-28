@@ -1,0 +1,20 @@
+Álvaro Del Burgo Pérez (Trabajo hecho en este repositorio): 
+
+1. Me he cambiado a la rama feature con: git checkout feature
+2. He actualizado la rama con: git pill origin feature
+3. He editado el archivo Holamundo.py con: nano Holamundo.py
+4. He guardado con: git add Holamundo.py y he hecho commit con: git commit -m "Agregando la nueva funcinalidad a feature"
+5. He cambiado de rama a develop con: git checkout develop
+6. He subido los cambios a develop con: git merge feature
+7. He editado el archivo Holamundo.py
+8. He guardado con: git add Holamundo.py y he hecho commit con: git commit -m "he añadido otro print en developpp"
+9. He cambiado a la rama main con: git checkout main
+10. He subido los cambios a la rama main con: git merge develop
+11. He subido los cambios al repositorio remoto con: git push origin main
+12. He cambiado de rama a develop con: git checkout develop
+13. He traído el archivo Holamundo desde main con: git checkout main -- Holamundo.py
+14. He editado el archivo Holamundo.py
+15. He guardado con: git add Holamundo.py y he hecho commit con: git commit -m "he añadido otro print :)"
+16. He cambiado a la rama main con: git checkout main
+17. He subido los cambios a la rama main con: git merge develop
+18. He subido los cambios al repositorio remoto con: git push origin main
